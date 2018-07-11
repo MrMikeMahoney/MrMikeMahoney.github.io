@@ -1,22 +1,23 @@
 
-title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+title: Mr Mike Mahoney's Resume
+url: 'MrMikeMahoney.github.io'
+baseurl:  #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Mike Mahoney  ## put your name
+title: 'Data Scientist'  ## your title
+location: Texas, open to relocation
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: https://www.facebook.com/profile.php?id=29617842m  ## your facebook account url
+#twitter: http://www.twitter.com  ## your twitter account url
+github: https://github.com/MrMikeMahoney
+linkedin: https://www.linkedin.com/in/michael-mahoney-236b08109/  ## your linkedin account url
+#dribbble: http://www.dribble.com  ## you dribbble account url
+#foursquare: http://www.foursquare.com  ## your foursquare account url
 
 
 
