@@ -1,131 +1,131 @@
 /* ========================================================================================= */
-/* ======================================= DarkGreen=================================== */
+/* ======================================= #16843e DarkGreen =================================== */
 /* ========================================================================================= */
 
 .btn-primary {
-    background: DarkGreen;
+    background: #16843e;
 }
 .btn-primary:hover {
-    background: DarkGreen;
+    background: #16843e;
 }
 a {
-    color: DarkGreen;
+    color: #16843e;
 }
 .icon_menu {
     background: #fff !important;
-    color: DarkGreen;
+    color: #16843e;
 }
 .icon_menu_active, .icon_menu_hover {
-    background: DarkGreen!important;
+    background: #16843e!important;
     color: #fff !important;
     transition-property: background-color;
     transition-duration: 0.3s;
     transition-timing-function: linear;
 }
 .mCSB_dragger_bar {
-    background: DarkGreen!important;
+    background: #16843e!important;
 }
 #style-2::-webkit-scrollbar-thumb {
-    background-color:DarkGreen;
+    background-color:#16843e;
 }
 .span-info {
-    color: DarkGreen;
+    color: #16843e;
 }
 #contactform .submit:hover, #comment_form .submit:hover {
     webkit-filter: brightness(98%) !important;
 }
 #profile .col-md-5 h2, #profile .col-md-5 h4, #resume .col-md-6 p, #resume .col-md-6 span.duration {
-    color: DarkGreen;
+    color: #16843e;
 }
 #resume .resume-left ul li h5 {
-    border-bottom: 1px solid DarkGreen;
+    border-bottom: 1px solid #16843e;
 }
 .attributes span.glyphicon, .attributes h6 {
-    color: DarkGreen;
+    color: #16843e;
 }
 .blog-article a.read_m:hover {
-    border: 1px solid DarkGreen;
-    background-color: DarkGreen;
+    border: 1px solid #16843e;
+    background-color: #16843e;
 }
 .border-list {
-    border: 1px solid DarkGreen;
+    border: 1px solid #16843e;
 }
 .content-post h1 {
-    color: DarkGreen;
+    color: #16843e;
 }
 a.readmore:hover, a.readmore:focus, a.readmore:active {
-    border: 1px solid DarkGreen;
-    background-color: DarkGreen;
+    border: 1px solid #16843e;
+    background-color: #16843e;
 }
 .border-list {
-    border: 1px solid DarkGreen;
+    border: 1px solid #16843e;
 }
 .content-post h1 {
-    color: DarkGreen;
+    color: #16843e;
 }
 a.readmore:hover, a.readmore:focus, a.readmore:active {
-    border: 1px solid DarkGreen;
-    background-color: DarkGreen;
+    border: 1px solid #16843e;
+    background-color: #16843e;
 }
 .ch-info-prof {
     background: rgba(177, 205, 0, 0.6);
 }
 #profile .col-md-6 h1 {
-    color: DarkGreen;
+    color: #16843e;
 }
 .download:hover span, .download:focus span {
-    background: DarkGreen;
+    background: #16843e;
 }
 .download span::before {
-    color: DarkGreen;
+    color: #16843e;
 }
 .download span, .ch-info .ch-info-back {
-    background: DarkGreen;
+    background: #16843e;
 }
 .resp-tabs-container h1 {
-    color: DarkGreen!important;
+    color: #16843e!important;
     background: url(../../images/arrows-h3/arrow-green-h3.png) no-repeat 0px 3px;
 }
 
 @media screen and (max-width:540px) {
     .content-inner {
-        border-top: 5px solid DarkGreen;
+        border-top: 5px solid #16843e;
     }
 }
 #contactform .submit, #comment_form .submit {
-    background-color: DarkGreen;
+    background-color: #16843e;
 }
 #profile .about i.glyphicon, #profile .about label {
-    color: DarkGreen;
+    color: #16843e;
 }
 #section-title, #categories_sidebar ul.categories li a:hover {
-    background: DarkGreen;
+    background: #16843e;
 }
 #tags .tags_sidebar .tags-list li {
-    border: 1px solid DarkGreen;
-    color: DarkGreen;
+    border: 1px solid #16843e;
+    color: #16843e;
 }
 #tags .tags_sidebar .tags-list li a {
-    color: DarkGreen;
+    color: #16843e;
 }
 #tags .tags_sidebar .tags-list li:hover {
-    background: DarkGreen;
+    background: #16843e;
 }
 h2.resp-accordion:hover .hi-icon, 
 .no-touch .hi-icon-effect-5 .hi-icon:hover {
-    border: 1px solid DarkGreen!important;
+    border: 1px solid #16843e!important;
 }
 
 @media only screen and (max-width: 800px) {
     .icon_menu_active, .icon_menu_hover {
         background: #fff !important;
-        color: DarkGreen!important;
+        color: #16843e!important;
         transition-property: background-color;
         transition-duration: 0.3s;
         transition-timing-function: linear;
     }
     h2.resp-accordion {
-        background: DarkGreen !important;
+        background: #16843e !important;
     }
     h2.resp-accordion:hover {
         background: rgba(177, 205, 0, 0.8)  !important;
@@ -136,57 +136,57 @@ h2.resp-accordion:hover .hi-icon,
 }
 
 .title_content:after, .icon_content {
-    background: DarkGreen;
+    background: #16843e;
 }
 .text_content {
-    color: DarkGreen;
+    color: #16843e;
 }
 .panel-default>.panel-heading {
     color: #fff;
-    background-color: DarkGreen;
+    background-color: #16843e;
 }
 .nbs-flexisel-inner {
-    border: 5px solid DarkGreen;
+    border: 5px solid #16843e;
 }
 #nb_post, .reply, .tag, .info-post i.glyphicon, .info i.glyphicon, i.fa-quote-left {
-    color: DarkGreen!important;
+    color: #16843e!important;
 }
 .modal-header {
-    background: DarkGreen;
+    background: #16843e;
 }
 .skillbar-title, .skillbar-bar {
     background: rgba(177, 205, 0, 0.8);
 }
 .portfolio .label-bg, #filters li span.active {
-    background: DarkGreen;
+    background: #16843e;
 }
 .portfolio .label-bg, #filters li span:hover  {
-    background: DarkGreen;
+    background: #16843e;
     -webkit-transition: all .3s ease-in;
     -moz-transition: all .3s ease-in;
     -o-transition: all .3s ease-in;
     transition: all .3s ease-in;
 }
 #sidebar-right .search-blog i, #sidebar-left .search-blog i {
-    background: DarkGreen;
+    background: #16843e;
 }
 .icon-switcher {	
-    color: DarkGreen!important;
+    color: #16843e!important;
 }
 .resp-tabs-list li {
-    background: DarkGreen;
+    background: #16843e;
     color: #fff;
 }
 #services .pack-service .service-icon i {
-    border: 3px solid DarkGreen;
-    color: DarkGreen;
+    border: 3px solid #16843e;
+    color: #16843e;
     background: #fff;
 }
 #services .pack-service:hover .service-icon i {
-    background: DarkGreen;
+    background: #16843e;
 }
 .widget-profil{
-    background: DarkGreen;   
+    background: #16843e;   
 }
 .widget-profil .head-image{
     border: 10px solid #c7e700;
@@ -211,17 +211,17 @@ h2.resp-accordion:hover .hi-icon,
     border-top: 1px solid #e0ff1b;
 }
 #profile_social a:hover {
-    color : DarkGreen;
+    color : #16843e;
 }
 #profile_social a{
-    background-color: DarkGreen;
+    background-color: #16843e;
 }
 #blog .post_media {
-    border-top: 5px solid DarkGreen;
+    border-top: 5px solid #16843e;
 }
 #blog .post_media  .post-format-icon {
-    background: DarkGreen;
+    background: #16843e;
 }
 .reference span {
-    color : DarkGreen;
+    color : #16843e;
 }
