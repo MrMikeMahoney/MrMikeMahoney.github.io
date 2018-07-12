@@ -127,6 +127,12 @@ jQuery(document).ready(function($) {
         return false;
     });
 
+    $(".DarkGreen").click(function() {
+        $("#colors-style").attr("href", "assets/css/colors/DarkGreen.css");
+        $.cookie('layout_color', 'assets/css/colors/DarkGreen.css');
+        return false;
+    });
+
     // Custumizz Style
 
     //radio style profile	
