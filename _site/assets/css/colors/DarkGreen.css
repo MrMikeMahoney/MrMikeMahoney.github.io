@@ -1,131 +1,131 @@
 /* ========================================================================================= */
-/* ======================================= Green #129512 =================================== */
+/* ======================================= DarkGreen #006600 =================================== */
 /* ========================================================================================= */
 
 .btn-primary {
-    background: #129512;
+    background: #006600;
 }
 .btn-primary:hover {
-    background: #129512;
+    background: #006600;
 }
 a {
-    color: #129512;
+    color: #006600;
 }
 .icon_menu {
     background: #fff !important;
-    color: #129512;
+    color: #006600;
 }
 .icon_menu_active, .icon_menu_hover {
-    background: #129512 !important;
+    background: #006600 !important;
     color: #fff !important;
     transition-property: background-color;
     transition-duration: 0.3s;
     transition-timing-function: linear;
 }
 .mCSB_dragger_bar {
-    background: #129512 !important;
+    background: #006600 !important;
 }
 #style-2::-webkit-scrollbar-thumb {
-    background-color:#129512;
+    background-color:#006600;
 }
 .span-info {
-    color: #129512;
+    color: #006600;
 }
 #contactform .submit:hover, #comment_form .submit:hover {
     webkit-filter: brightness(98%) !important;
 }
 #profile .col-md-5 h2, #profile .col-md-5 h4, #resume .col-md-6 p, #resume .col-md-6 span.duration {
-    color: #129512;
+    color: #006600;
 }
 #resume .resume-left ul li h5 {
-    border-bottom: 1px solid #129512;
+    border-bottom: 1px solid #006600;
 }
 .attributes span.glyphicon, .attributes h6 {
-    color: #129512;
+    color: #006600;
 }
 .blog-article a.read_m:hover {
-    border: 1px solid #129512;
-    background-color: #129512;
+    border: 1px solid #006600;
+    background-color: #006600;
 }
 .border-list {
-    border: 1px solid #129512;
+    border: 1px solid #006600;
 }
 .content-post h1 {
-    color: #129512;
+    color: #006600;
 }
 a.readmore:hover, a.readmore:focus, a.readmore:active {
-    border: 1px solid #129512;
-    background-color: #129512;
+    border: 1px solid #006600;
+    background-color: #006600;
 }
 .border-list {
-    border: 1px solid #129512;
+    border: 1px solid #006600;
 }
 .content-post h1 {
-    color: #129512;
+    color: #006600;
 }
 a.readmore:hover, a.readmore:focus, a.readmore:active {
-    border: 1px solid #129512;
-    background-color: #129512;
+    border: 1px solid #006600;
+    background-color: #006600;
 }
 .ch-info-prof {
     background: rgba(177, 205, 0, 0.6);
 }
 #profile .col-md-6 h1 {
-    color: #129512;
+    color: #006600;
 }
 .download:hover span, .download:focus span {
-    background: #129512;
+    background: #006600;
 }
 .download span::before {
-    color: #129512;
+    color: #006600;
 }
 .download span, .ch-info .ch-info-back {
-    background: #129512;
+    background: #006600;
 }
 .resp-tabs-container h1 {
-    color: #129512 !important;
+    color: #006600 !important;
     background: url(../../images/arrows-h3/arrow-green-h3.png) no-repeat 0px 3px;
 }
 
 @media screen and (max-width:540px) {
     .content-inner {
-        border-top: 5px solid #129512;
+        border-top: 5px solid #006600;
     }
 }
 #contactform .submit, #comment_form .submit {
-    background-color: #129512;
+    background-color: #006600;
 }
 #profile .about i.glyphicon, #profile .about label {
-    color: #129512;
+    color: #006600;
 }
 #section-title, #categories_sidebar ul.categories li a:hover {
-    background: #129512;
+    background: #006600;
 }
 #tags .tags_sidebar .tags-list li {
-    border: 1px solid #129512;
-    color: #129512;
+    border: 1px solid #006600;
+    color: #006600;
 }
 #tags .tags_sidebar .tags-list li a {
-    color: #129512;
+    color: #006600;
 }
 #tags .tags_sidebar .tags-list li:hover {
-    background: #129512;
+    background: #006600;
 }
 h2.resp-accordion:hover .hi-icon, 
 .no-touch .hi-icon-effect-5 .hi-icon:hover {
-    border: 1px solid #129512 !important;
+    border: 1px solid #006600 !important;
 }
 
 @media only screen and (max-width: 800px) {
     .icon_menu_active, .icon_menu_hover {
         background: #fff !important;
-        color: #129512 !important;
+        color: #006600 !important;
         transition-property: background-color;
         transition-duration: 0.3s;
         transition-timing-function: linear;
     }
     h2.resp-accordion {
-        background: #129512  !important;
+        background: #006600  !important;
     }
     h2.resp-accordion:hover {
         background: rgba(177, 205, 0, 0.8)  !important;
@@ -136,57 +136,57 @@ h2.resp-accordion:hover .hi-icon,
 }
 
 .title_content:after, .icon_content {
-    background: #129512;
+    background: #006600;
 }
 .text_content {
-    color: #129512;
+    color: #006600;
 }
 .panel-default>.panel-heading {
     color: #fff;
-    background-color: #129512;
+    background-color: #006600;
 }
 .nbs-flexisel-inner {
-    border: 5px solid #129512;
+    border: 5px solid #006600;
 }
 #nb_post, .reply, .tag, .info-post i.glyphicon, .info i.glyphicon, i.fa-quote-left {
-    color: #129512 !important;
+    color: #006600 !important;
 }
 .modal-header {
-    background: #129512;
+    background: #006600;
 }
 .skillbar-title, .skillbar-bar {
     background: rgba(177, 205, 0, 0.8);
 }
 .portfolio .label-bg, #filters li span.active {
-    background: #129512;
+    background: #006600;
 }
 .portfolio .label-bg, #filters li span:hover  {
-    background: #129512;
+    background: #006600;
     -webkit-transition: all .3s ease-in;
     -moz-transition: all .3s ease-in;
     -o-transition: all .3s ease-in;
     transition: all .3s ease-in;
 }
 #sidebar-right .search-blog i, #sidebar-left .search-blog i {
-    background: #129512;
+    background: #006600;
 }
 .icon-switcher {	
-    color: #129512 !important;
+    color: #006600 !important;
 }
 .resp-tabs-list li {
-    background: #129512;
+    background: #006600;
     color: #fff;
 }
 #services .pack-service .service-icon i {
-    border: 3px solid #129512;
-    color: #129512;
+    border: 3px solid #006600;
+    color: #006600;
     background: #fff;
 }
 #services .pack-service:hover .service-icon i {
-    background: #129512;
+    background: #006600;
 }
 .widget-profil{
-    background: #129512;   
+    background: #006600;   
 }
 .widget-profil .head-image{
     border: 10px solid #c7e700;
@@ -211,17 +211,17 @@ h2.resp-accordion:hover .hi-icon,
     border-top: 1px solid #e0ff1b;
 }
 #profile_social a:hover {
-    color : #129512;
+    color : #006600;
 }
 #profile_social a{
-    background-color: #129512;
+    background-color: #006600;
 }
 #blog .post_media {
-    border-top: 5px solid #129512;
+    border-top: 5px solid #006600;
 }
 #blog .post_media  .post-format-icon {
-    background: #129512;
+    background: #006600;
 }
 .reference span {
-    color : #129512;
+    color : #006600;
 }
